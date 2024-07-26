@@ -35,22 +35,22 @@ const Faq = () => {
 
 const faqdata = [
   {
-    question: "Vocês consertam computadores e notebooks?",
-    answer: "Sim, prestamos serviços em computadores e notebooks",
+    question: "vocês consertam computadores e notebooks?",
+    answer: "sim, prestamos serviços em computadores e notebooks",
   },
   {
-    question: "O Sistema de Vocês é completo, com módulo fiscal?",
-    answer: "Sim, nosso sistema pode ser utilizado para Controle de Estoque, Controle de Vendas, Controle de Ordem de Serviços, Orçamentos, Emissão de Cupoms Fiscais, Emissão de NFE entre mais funcionalidades",
+    question: "o sistema de vocês é completo, com módulo fiscal?",
+    answer: "sim, nosso sistema pode ser utilizado para Controle de Estoque, Controle de Vendas, Controle de Ordem de Serviços, Orçamentos, Emissão de Cupoms Fiscais, Emissão de NFE entre mais funcionalidades",
   },
   {
-    question: "Vocês não cobram mensalidade para deixar o site online igual os outros desenvolvedores?",
+    question: "vocês não cobram mensalidade para deixar o site online igual os outros desenvolvedores?",
     answer:
-      "Sim, nosso site é feito com uma tecnologia nova, não necessitando de compra de hospedagem, oque diminui o custo de desenvolvimento, melhorando o custo benefício para o cliente",
+      "sim, nosso site é feito com uma tecnologia nova, não necessitando de compra de hospedagem, oque diminui o custo de desenvolvimento, melhorando o custo benefício para o cliente",
   },
   {
-    question: "Vocês possuem parceria com alguma outra empresa?",
+    question: "vocês possuem parceria com alguma outra empresa?",
     answer:
-      "Sim, temos parceria com a NetSolutions - Soluções em Informática",
+      "sim, temos parceria com a NetSolutions - Soluções em Informática",
   },
 ];
 

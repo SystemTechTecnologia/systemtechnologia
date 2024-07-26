@@ -13,11 +13,7 @@ const Testimonials  = () => {
         <div className="lg:col-span-2 xl:col-auto">
           <div className="flex flex-col justify-between w-full h-full bg-gray-100 px-14 rounded-2xl py-14 dark:bg-trueGray-800">
             <p className="text-2xl leading-normal ">
-              Faço manutenções dos computadores da empresa e
-               utilizo o sistema de automação comercial da System Tec Informática, 
-               sempre me atenderam super bem e 
-               quando preciso o suporte é rápido e bem prestado,
-                recomendo a todos
+              mto bom tanto o custo beneficio qnto a qualidade.
             </p>
 
             <Avatar
@@ -30,9 +26,7 @@ const Testimonials  = () => {
         <div className="">
           <div className="flex flex-col justify-between w-full h-full bg-gray-100 px-14 rounded-2xl py-14 dark:bg-trueGray-800">
             <p className="text-2xl leading-normal ">
-              Suporte nota 10, sempre que precisamos eles nos atendem
-              super bem, além de boa assistência técnica o sistema também
-              é bem completo
+              excelente empresa com excelentes colaboradores.
             </p>
 
             <Avatar
@@ -45,7 +39,7 @@ const Testimonials  = () => {
         <div className="">
           <div className="flex flex-col justify-between w-full h-full bg-gray-100 px-14 rounded-2xl py-14 dark:bg-trueGray-800">
             <p className="text-2xl leading-normal ">
-              Empresa muito boa, super recomendo seus serviços e o seu sistema
+              Empresa muito boa, super recomendo.
             </p>
 
             <Avatar

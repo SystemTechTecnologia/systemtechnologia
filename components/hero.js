@@ -9,10 +9,10 @@ const Hero = () => {
         <div className="flex items-center w-full lg:w-1/2">
           <div className="max-w-2xl mb-8">
             <h1 className="text-4xl font-bold leading-snug tracking-tight text-gray-800 lg:text-4xl lg:leading-tight xl:text-6xl xl:leading-tight dark:text-white">
-              Todas as Soluções que Você precisa em um só lugar
+              todas as soluções que você precisa em um só lugar
             </h1>
             <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl dark:text-gray-300">
-            System Tec Informática é a solução que Você precisa para melhorar seus computadores/notebooks, para garantir o funcionamento correto de suas máquinas com garantia e segurança. Caso precise de um Sistema que ajude no gerenciamento do seu estabelecimento temos também a solução e se quer divulgar sua marca na internet, criamos um site com a sua cara que vai agregar muito no seu crescimento como empreendedor.
+            system tec informática é a solução que você precisa para melhorar seus computadores/notebooks, para garantir o funcionamento correto de suas máquinas com garantia e segurança. caso precise de um sistema que ajude no gerenciamento do seu estabelecimento temos também a solução e se quer divulgar sua marca na internet, criamos um site com a sua cara que vai agregar muito no seu crescimento como empreendedor.
             </p>
 
             <div className="flex flex-col items-start space-y-3 sm:space-x-4 sm:space-y-0 sm:items-center sm:flex-row">
@@ -21,7 +21,7 @@ const Hero = () => {
                 target="_blank"
                 rel="noopener"
                 className="px-8 py-4 text-lg font-medium text-center text-white bg-indigo-600 rounded-md ">
-                Entre em contato
+                entre em contato
               </a>
               
             </div>
@@ -44,7 +44,7 @@ const Hero = () => {
       <Container>
         <div className="flex flex-col justify-center">
           <div className="text-xl text-center text-gray-700 dark:text-white">
-            Trabalhamos com <span className="text-indigo-600">várias</span>{" "}
+            trabalhamos com <span className="text-indigo-600">várias</span>{" "}
             marcas e modelos
           </div>
 

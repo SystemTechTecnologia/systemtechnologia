@@ -5,10 +5,10 @@ import Container from "./container";
 
  const Footer = () => {
     const navigation = [
-        "Inicio",
-        "Assistência Técnica",
-        "Tutoriais - Sistema de Automação Comercial",
-        "Sites", 
+        "inicio",
+        "assistência Técnica",
+        "tutoriais - sistema de automação comercial",
+        "sites", 
       ];
       const links = [
         "https://systemtecinformatica.vercel.app/",
@@ -32,12 +32,12 @@ import Container from "./container";
                       height="32"
                       className="w-8"
                     />
-                  <span>SystemTec T.I</span>
+                  <span>system tech t.i</span>
               </Link>
             </div>
 
             <div className="max-w-md mt-4 text-gray-500 dark:text-gray-400">
-              System Tec Informática a Solução em Informática para Você Empreendedor que busca
+              system tech ti a solução em informática para você empreendedor que busca
               qualidade e excelente custo benefício.
             </div>
 
@@ -223,7 +223,7 @@ const Backlink = () => {
         />
       </svg>
 
-      <span>SystemTec T.I</span>
+      <span>system tech t.i</span>
     </a>
   );
 };

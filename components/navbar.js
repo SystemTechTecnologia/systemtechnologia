@@ -5,10 +5,10 @@ import { Disclosure } from "@headlessui/react";
 
 const Navbar = () => {
   const navigation = [
-      "Inicio",
-      "Assistência Técnica",
-      "Tutoriais - Sistema de Automação Comercial",
-      "Sites", 
+      "inicio",
+      "assistência técnica",
+      "tutoriais - sistema de automação comercial",
+      "sites", 
     ];
     const links = [
       "/",
@@ -36,7 +36,7 @@ const Navbar = () => {
                         className="w-8"
                       />
                     </span>
-                    <span>SystemTec T.I</span>
+                    <span>system tech t.i</span>
                   </span>
                 </Link>
 
