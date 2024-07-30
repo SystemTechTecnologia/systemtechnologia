@@ -11,7 +11,7 @@ import benefitOneImg from "../public/img/benefit-one.png";
 import benefitTwoImg from "../public/img/benefit-two.png";
 
 const benefitOne = {
-  title: "alguns dos benefícios de escolher a aystem Tec Informática",
+  title: "alguns dos benefícios de escolher a aystem tech t.i",
   desc: "",
   image: benefitOneImg,
   bullets: [
