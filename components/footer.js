@@ -8,7 +8,7 @@ import Container from "./container";
         "inicio",
         "assistência Técnica",
         "tutoriais - sistema de automação comercial",
-        "sites", 
+        "game quiz system tech", 
       ];
       const links = [
         "https://systemtecinformatica.vercel.app/",

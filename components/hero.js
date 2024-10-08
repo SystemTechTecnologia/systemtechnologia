@@ -25,9 +25,15 @@ const Hero = () => {
                 target="_blank"
                 rel="noopener"
                 className="px-8 py-4 text-lg font-medium text-center text-white bg-indigo-600 rounded-md ">
-                entre em contato
+                Whatsapp Atendimento
               </a>
-              
+              <a
+                href="https://quiz-game-systemtech.vercel.app/"
+                target="_blank"
+                rel="noopener"
+                className="px-8 py-4 text-lg font-medium text-center text-white bg-indigo-600 rounded-md ">
+                Teste nosso Game Quizz - Clique Aqui
+              </a>
             </div>
           </div>
         </div>

@@ -8,13 +8,13 @@ const Navbar = () => {
       "inicio",
       "assistência técnica",
       "tutoriais - sistema de automação comercial",
-      "sites", 
+      "Game Quizz - system tech", 
     ];
     const links = [
       "/",
       "/",
       "/sistemadeautomacao",
-      "/",
+      "https://quiz-game-systemtech.vercel.app/",
      ];
 
   return (
