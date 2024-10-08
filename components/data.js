@@ -17,35 +17,35 @@ const benefitOne = {
   bullets: [
     {
       title: "assistência técnica em barretos-sp a domicílio",
-      desc: "não precisa trazer seu aparelho até nós, nossa assistência técnica vai até você",
+      desc: "conferir disponibilidade de horário",
       icon: <FaceSmileIcon />,
     },
     {
-      title: "sistema de automação nota 10 avaliado pelos clientes",
-      desc: "temos mais de 500 clientes que utilizam nosso sistema pelo Brasil e com a comprovação que sistemas melhoram o ambiente de trabalho tanto na agilidade como também na organização do Comércio",
+      title: "sistema de automação comercial em parceria com uma das melhores software house da região",
+      desc: "disponibilizamos acesso ao nosso sistema de automacao comercial para pequenas e grandes empresas e empresário(a)s, sistema ja consagrado no mercado e com muitas parcerias que deram certo",
       icon: <ChartBarSquareIcon />,
     },
     {
-      title: "sites rápidos, seguros e com um preço que cabe no seu bolso",
-      desc: "nossos sites são feitos com as mais novas tecnologias, prezando melhor desempenho e custo benefício",
+      title: "seu celular não esta com bom funcionamento?nos chame no whatsapp que resolvemos no mesmo dia conforme horário",
+      desc: "System Tech, desde 2022 se especializando cada vez mais para melhor atende-los",
       icon: <CursorArrowRaysIcon />,
     },
   ],
 };
 
 const benefitTwo = {
-  title: "mais alguns benefícios da system tech ti",
+  title: "mais alguns benefícios da system tech",
   desc: "",
   image: benefitTwoImg,
   bullets: [
     {
-      title: "atendemos todo tipo de cliente, independente de idade ou equipamento",
-      desc: "temos clientes desde jovens iniciantes a gente da melhor idade, e atendemos a todos com paciência e entendimento",
+      title: "espaco para anuncio",
+      desc: "pc ou notebook lento?celular está com algum probleminha?a system tech resolve",
       icon: <DevicePhoneMobileIcon />,
     },
     {
       title: "suporte nível A para te atender da melhor forma possível",
-      desc: "nossa equipe de suporte é muito bem avaliada pelos clientes e está sempre disposta a lhes atender com dedicação e comprometimento",
+      desc: "espaco para anuncio",
       icon: <AdjustmentsHorizontalIcon />,
     },
     {

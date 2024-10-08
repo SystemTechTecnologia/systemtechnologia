@@ -32,12 +32,12 @@ import Container from "./container";
                       height="32"
                       className="w-8"
                     />
-                  <span>system tech t.i</span>
+                  <span>system tech manutenções</span>
               </Link>
             </div>
 
             <div className="max-w-md mt-4 text-gray-500 dark:text-gray-400">
-              system tech ti a solução em informática para você empreendedor que busca
+              system tech pra você empreendedor que busca
               qualidade e excelente custo benefício.
             </div>
 
@@ -223,7 +223,7 @@ const Backlink = () => {
         />
       </svg>
 
-      <span>system tech t.i</span>
+      <span>system tech manutenções</span>
     </a>
   );
 };

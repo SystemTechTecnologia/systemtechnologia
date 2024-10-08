@@ -17,10 +17,10 @@ const Home = () => {
   return (
     <>
       <Head>
-        <title>system tech informática - assistência técnica em informática, venda de sistemas de automação e criação de sites</title>
+        <title>system tech manutenções - assistência técnica</title>
         <meta
           name="description"
-          content="system tech informática - assistência técnica em informática, venda de sistemas de Automação e criação de sites"
+          content="system tech manutenções"
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>
@@ -28,9 +28,13 @@ const Home = () => {
       <Navbar />
       <Hero />
       <SectionTitle
-        pretitle="Benefícios de escolher a System Tec Informática"
-        title="nós focamos primeiramente em resolver os problemas de informática do cliente">
-        system tech ti é a melhor assistência técnica em barretos-sp que você precisa para melhorar seus computadores/notebooks, para garantir o funcionamento correto de suas máquinas com garantia e segurança. caso precise de um sistema que ajude no gerenciamento do seu estabelecimento temos também a solução e se quer divulgar sua marca na internet, criamos um site com a sua cara que vai agregar muito no seu crescimento no ramo empresarial.
+        pretitle="orçamento gratuito e acessivel"
+        title="espaco para anuncio">
+        Manutenção <br></br>
+        Atualização <br></br>
+        Suporte <br></br>
+        Criação de Sites<br></br>
+
       </SectionTitle>
       <Benefits data={benefitOne} />
       <Benefits imgPos="right" data={benefitTwo} />
