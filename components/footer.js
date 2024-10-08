@@ -26,10 +26,10 @@ import Container from "./container";
               {" "}
               <Link href="https://systemtecinformatica.vercel.app/" className="flex items-center space-x-2 text-2xl font-medium text-indigo-500 dark:text-gray-100">
                     <Image
-                      src="/img/logo1.svg"
+                      src="/img/logo2.svg"
                       alt="N"
-                      width="32"
-                      height="32"
+                      width="62"
+                      height="62"
                       className="w-8"
                     />
                   <span>system tech manutenções</span>

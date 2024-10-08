@@ -26,13 +26,13 @@ const Navbar = () => {
             <>
               <div className="flex flex-wrap items-center justify-between w-full lg:w-auto">
                 <Link href="https://systemtecinformatica.vercel.app/">
-                  <span className="flex items-center space-x-2 text-2xl font-medium text-indigo-500 dark:text-gray-100">
+                  <span className="flex items-center space-x-2 text-2xl font-medium text-green-500 dark:text-gray-100">
                     <span>
                       <Image
-                        src="/img/logo1.svg"
+                        src="/img/logo2.svg"
                         alt="N"
-                        width="32"
-                        height="32"
+                        width="62"
+                        height="62"
                         className="w-8"
                       />
                     </span>
@@ -70,8 +70,8 @@ const Navbar = () => {
                           {item}
                       </Link>
                     ))}
-                    <Link href="https://wa.me/message/BSA4YTAIUDRUL1" className="w-full px-6 py-2 mt-3 text-center text-white bg-indigo-600 rounded-md lg:ml-5">         
-                        Contato
+                    <Link href="https://wa.me/message/BSA4YTAIUDRUL1" className="w-full px-6 py-2 mt-3 text-center text-white bg-green-600 rounded-md lg:ml-5">         
+                        Whatsapp Atendimento
                     </Link>
                   </>
                 </Disclosure.Panel>
@@ -96,7 +96,7 @@ const Navbar = () => {
 
         <div className="hidden mr-3 space-x-4 lg:flex nav__item">
           <Link href="https://wa.me/message/BSA4YTAIUDRUL1" className="px-6 py-2 text-white bg-indigo-600 rounded-md md:ml-5">
-              Contato
+              Whatsapp Atendimento 
           </Link>
 
           <ThemeChanger />

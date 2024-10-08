@@ -24,14 +24,14 @@ const Hero = () => {
                 href="https://wa.me/message/BSA4YTAIUDRUL1"
                 target="_blank"
                 rel="noopener"
-                className="px-8 py-4 text-lg font-medium text-center text-white bg-indigo-600 rounded-md ">
+                className="px-8 py-4 text-lg font-medium text-center text-white bg-red-500 rounded-md ">
                 Whatsapp Atendimento
               </a>
               <a
                 href="https://quiz-game-systemtech.vercel.app/"
                 target="_blank"
                 rel="noopener"
-                className="px-8 py-4 text-lg font-medium text-center text-white bg-indigo-600 rounded-md ">
+                className="px-8 py-4 text-lg font-medium text-center text-white bg-red-500 rounded-md ">
                 Teste nosso Game Quizz - Clique Aqui
               </a>
             </div>
