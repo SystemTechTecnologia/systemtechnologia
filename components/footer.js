@@ -24,7 +24,7 @@ import Container from "./container";
           <div className="lg:col-span-2">
             <div>
               {" "}
-              <Link href="https://systemtecinformatica.vercel.app/" className="flex items-center space-x-2 text-2xl font-medium text-indigo-500 dark:text-gray-100">
+              <Link href="https://systemtecinformatica.vercel.app/" className="flex items-center space-x-2 text-2xl font-medium text-green-500 dark:text-green-500">
                     <Image
                       src="/img/logo2.svg"
                       alt="N"
@@ -36,7 +36,7 @@ import Container from "./container";
               </Link>
             </div>
 
-            <div className="max-w-md mt-4 text-gray-500 dark:text-gray-400">
+            <div className="max-w-md mt-4 text-green-500 dark:text-green-500">
               system tech pra você empreendedor que busca
               qualidade e excelente custo benefício.
             </div>
@@ -223,7 +223,7 @@ const Backlink = () => {
         />
       </svg>
 
-      <span>system tech manutenções</span>
+      <span>anutenções</span>
     </a>
   );
 };
