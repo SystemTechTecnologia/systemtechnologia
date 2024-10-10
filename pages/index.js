@@ -36,7 +36,7 @@ const Home = () => {
         Criação de Sites<br></br>
 
       </SectionTitle>
-      <Benefits data={benefitOne} />
+      <Benefits data={benefitOne}/>
       <Benefits imgPos="right" data={benefitTwo} />
       <SectionTitle
         pretitle="video de Apresentação"
