@@ -27,10 +27,10 @@ const Home = () => {
   return (
     <>
       <Head>
-        <title>System Tec Informática - Assistência Técnica em Informática, Venda de Sistemas de Automação e Criação de Sites</title>
+        <title>System Tech - Assistência Técnica</title>
         <meta
           name="description"
-          content="System Tec Informática - Assistência Técnica em Informática, Venda de Sistemas de Automação e Criação de Sites"
+          content="System Tech - Assistência Técnica"
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>

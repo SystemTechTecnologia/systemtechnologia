@@ -12,7 +12,7 @@ const Navbar = () => {
     ];
     const links = [
       "/",
-      "/",
+      "/linksuteis",
       "/sistemadeautomacao",
       "https://quiz-game-systemtech.vercel.app/",
      ];

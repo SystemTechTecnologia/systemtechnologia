@@ -47,7 +47,7 @@ const Home = () => {
       <SectionTitle
         pretitle="cases de sucesso"
         title="aqui estão alguns dos nossos clientes">
-        Clientes que utilizam nosso serviço e aprovam
+        clientes que utilizam nosso serviço e aprovam
       </SectionTitle>
       <Testimonials />
       <SectionTitle pretitle="FAQ" title="Algumas perguntas frequentes">
