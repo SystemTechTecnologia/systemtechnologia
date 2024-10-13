@@ -12,7 +12,12 @@ const Hero = () => {
             <a href='https://drive.google.com/file/d/1yzl5Sxt7d3guMBm3qbL09kte44phtAWh/view?usp=sharing'>
             Donwload ISO Windows 7 Ultimate - Clique Aqui
             </a>
-            </p>   
+            </p> 
+            <p className="py-5 text-xl leading-normal text-red-500 lg:text-xl xl:text-2xl dark:text-gray-300 font-bold">
+            <a href='https://rufus.ie/pt_BR/'>
+            Donwload Rufus - Clique Aqui
+            </a>
+            </p> 
             <p className="py-5 text-xl leading-normal text-green-500 lg:text-xl xl:text-2xl dark:text-gray-300 font-bold">
             Manutenção em :
             </p>
