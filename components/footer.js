@@ -11,10 +11,10 @@ import Container from "./container";
         "game quiz system tech", 
       ];
       const links = [
-        "https://systemtecinformatica.vercel.app/",
-        "https://systemtecinformatica.vercel.app/",
-        "https://systemtecinformatica.vercel.app/sistemadeautomacao/",
-        "https://systemtecinformatica.vercel.app/",
+      "/",
+      "/linksuteis",
+      "/sistemadeautomacao",
+      "https://quiz-game-systemtech.vercel.app/",
        ];
   const legal = ["Terms", "Privacy", "Legal"];
   return (
