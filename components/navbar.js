@@ -8,13 +8,15 @@ const Navbar = () => {
       "inicio",
       "assistência técnica",
       "tutoriais - sistema de automação comercial",
-      "Game Quizz - system tech", 
+      "Game Quizz - system tech",
+      "Animes Gratuitos"
     ];
     const links = [
       "/",
       "/linksuteis",
       "/sistemadeautomacao",
       "https://quiz-game-systemtech.vercel.app/",
+      "/animesgratuitos"
      ];
 
   return (
