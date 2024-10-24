@@ -27,7 +27,7 @@ const Navbar = () => {
           {({ open }) => (
             <>
               <div className="flex flex-wrap items-center justify-between w-full lg:w-auto">
-                <Link href="https://systemtecinformatica.vercel.app/">
+                <Link href="https://systemtechnologia.vercel.app/">
                   <span className="flex items-center space-x-2 text-2xl font-medium text-green-500 dark:text-green-500">
                     <span>
                       <Image

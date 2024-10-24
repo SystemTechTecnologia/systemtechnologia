@@ -24,7 +24,7 @@ import Container from "./container";
           <div className="lg:col-span-2">
             <div>
               {" "}
-              <Link href="https://systemtecinformatica.vercel.app/" className="flex items-center space-x-2 text-2xl font-medium text-green-500 dark:text-green-500">
+              <Link href="https://systemtechnologia.vercel.app/" className="flex items-center space-x-2 text-2xl font-medium text-green-500 dark:text-green-500">
                     <Image
                       src="/img/logo2.svg"
                       alt="N"
@@ -115,7 +115,7 @@ import Container from "./container";
         <div className="my-10 text-sm text-center text-gray-600 dark:text-gray-400">
           Copyright © {new Date().getFullYear()}. Made with ♥ by{" "}
           <a
-            href="https://systemtecinformatica.vercel.app/"
+            href="https://systemtechnologia.vercel.app/"
             target="_blank"
             rel="noopener">
             SystemTec T.I
@@ -181,7 +181,7 @@ const Linkedin = ({ size = 24 }) => (
 const Backlink = () => {
   return (
     <a
-      href="https://systemtecinformatica.vercel.app/"
+      href="https://systemtechnologia.vercel.app/"
       target="_blank"
       rel="noopener"
       className="absolute flex px-3 py-1 space-x-2 text-sm font-semibold text-gray-900 bg-white border border-gray-300 rounded shadow-sm place-items-center left-5 bottom-5 dark:bg-trueGray-900 dark:border-trueGray-700 dark:text-trueGray-300">
