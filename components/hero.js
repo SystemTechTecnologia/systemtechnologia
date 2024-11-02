@@ -12,7 +12,7 @@ const Hero = () => {
             Nós somos apoiadores da utilização de eletrônicos de forma saudável.
             </p>
             <p className="text-xl leading-normal text-blue-500 lg:text-xl xl:text-2xl dark:text-gray-300 font-bold">
-              Crianças de +6 anos é sempre recomendado algum app de moritoramento por exemplo o <a className="text-decoration-underline text-gray-500" href='https://play.google.com/store/apps/details?id=com.google.android.apps.kids.familylink&pcampaignid=web_share'>Family Link</a>
+              Crianças de +6 anos é sempre recomendado algum app de monitoramento por exemplo o <a className="text-decoration-underline text-gray-500" href='https://play.google.com/store/apps/details?id=com.google.android.apps.kids.familylink&pcampaignid=web_share'>Family Link</a>
               </p>
             <p className="text-xl leading-normal text-blue-500 lg:text-xl xl:text-2xl dark:text-gray-300 font-bold">
               Procure sempre se atualizar sobre a utilização de eletrônicos, a saúde da familia é importante.
