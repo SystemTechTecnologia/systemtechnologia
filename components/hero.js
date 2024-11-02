@@ -8,6 +8,15 @@ const Hero = () => {
       <Container className="flex flex-wrap ">
         <div className="flex items-center w-full lg:w-1/2">
           <div className="max-w-2xl mb-8">
+          <p className="text-xl leading-normal text-blue-500 lg:text-xl xl:text-2xl dark:text-gray-300 font-bold">            
+            Nós somos apoiadores da utilização de eletrônicos de forma saudável.
+            </p>
+            <p className="text-xl leading-normal text-blue-500 lg:text-xl xl:text-2xl dark:text-gray-300 font-bold">
+              Crianças de +6 anos é sempre recomendado algum app de moritoramento por exemplo o <a className="text-decoration-underline text-gray-500" href='https://play.google.com/store/apps/details?id=com.google.android.apps.kids.familylink&pcampaignid=web_share'>Family Link</a>
+              </p>
+            <p className="text-xl leading-normal text-blue-500 lg:text-xl xl:text-2xl dark:text-gray-300 font-bold">
+              Procure sempre se atualizar sobre a utilização de eletrônicos, a saúde da familia é importante.
+            </p>           
           <p className="py-5 text-xl leading-normal text-red-500 lg:text-xl xl:text-2xl dark:text-gray-300 font-bold">
             <a href='https://asilosaojose.com.br/doacoes/'>
             Faça doação a SOCIEDADE SÃO VICENTE DE PAULA - Clique aqui
