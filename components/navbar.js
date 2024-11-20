@@ -8,13 +8,15 @@ const Navbar = () => {
       "inicio",
       "assistência técnica",
       "tutoriais - sistema de automação comercial",
-      "Game Quizz - system tech"
+      "Game Quizz - system tech",
+      "assistir animes grátis"
     ];
     const links = [
       "/",
       "/linksuteis",
       "/sistemadeautomacao",
-      "https://quiz-game-systemtech.vercel.app/"
+      "https://quiz-game-systemtech.vercel.app/",
+      "https://animesonlinecc.to/anime/"
      ];
 
   return (
