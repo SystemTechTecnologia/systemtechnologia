@@ -7,7 +7,7 @@ const Hero = () => {
     <>
       <Container className="flex flex-wrap ">
         <div className="flex items-center w-full lg:w-1/2">
-          <div className="max-w-2xl mb-8"           
+          <div className="max-w-2xl mb-8">                    
           <p className="py-5 text-xl leading-normal text-red-500 lg:text-xl xl:text-2xl dark:text-gray-300 font-bold">
             <a href='https://asilosaojose.com.br/doacoes/'>
             Faça doação a SOCIEDADE SÃO VICENTE DE PAULA - Clique aqui
